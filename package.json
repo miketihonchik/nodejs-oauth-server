@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-oauth-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://miketihonchik@github.com/miketihonchik/nodejs-oauth-server.git"
+  },
+  "keywords": [
+    "nodejs",
+    "oauth",
+    "server"
+  ],
+  "author": "mike tihonchik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miketihonchik/nodejs-oauth-server/issues"
+  },
+  "homepage": "https://github.com/miketihonchik/nodejs-oauth-server#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
